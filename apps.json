@@ -1,0 +1,20 @@
+{
+  "name": "MeetingRec (Taichi)",
+  "identifier": "com.taichi.meetingrec.source",
+  "subtitle": "MeetingRec for iPhone",
+  "apps": [
+    {
+      "name": "MeetingRec",
+      "bundleIdentifier": "com.taichi.meetingrec.ios",
+      "developerName": "Taichi Kagawa",
+      "subtitle": "Record meetings and transcribe on-device",
+      "localizedDescription": "iPhone companion of the MeetingRec Mac app: records meetings and lectures, saves them to iCloud Drive and transcribes them on-device with Whisper. Alpha software.",
+      "iconURL": "https://raw.githubusercontent.com/ktaichi326/MeetingRec-iOS-releases/main/icon.png",
+      "tintColor": "D93A3A",
+      "category": "productivity",
+      "screenshotURLs": [],
+      "versions": []
+    }
+  ],
+  "news": []
+}
