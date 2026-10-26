@@ -13,7 +13,22 @@
       "tintColor": "D93A3A",
       "category": "productivity",
       "screenshotURLs": [],
-      "versions": []
+      "versions": [
+        {
+          "version": "0.3.0",
+          "buildVersion": "3",
+          "date": "2026-10-26",
+          "localizedDescription": "Online mode via screen broadcast, blank name field. Alpha.",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.3.0-alpha/MeetingRec-0.3.0-alpha.ipa",
+          "size": 1860666,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "0.3.0",
+      "versionDate": "2026-10-26",
+      "versionDescription": "Online mode via screen broadcast, blank name field. Alpha.",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.3.0-alpha/MeetingRec-0.3.0-alpha.ipa",
+      "size": 1860666
     }
   ],
   "news": []
