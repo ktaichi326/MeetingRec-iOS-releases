@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.0",
+          "buildVersion": "6",
+          "date": "2026-10-29",
+          "localizedDescription": "The Mac app's settings on the iPhone: choose the microphone, the after-stop questions, auto-transcribe (off by default), a nightly batch while charging; Move, Share and Transcribe a File in Recordings; Delete Download for models.",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.5.0-alpha/MeetingRec-0.5.0-alpha.ipa",
+          "size": 1926105,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.4.0",
           "buildVersion": "5",
           "date": "2026-10-29",
@@ -42,11 +51,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.4.0",
+      "version": "0.5.0",
       "versionDate": "2026-10-29",
-      "versionDescription": "Model download and transcription keep running after you leave MeetingRec (iOS 26+): iOS shows their progress and may stop them when the iPhone is busy.",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.4.0-alpha/MeetingRec-0.4.0-alpha.ipa",
-      "size": 1869830
+      "versionDescription": "The Mac app's settings on the iPhone: choose the microphone, the after-stop questions, auto-transcribe (off by default), a nightly batch while charging; Move, Share and Transcribe a File in Recordings; Delete Download for models.",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.5.0-alpha/MeetingRec-0.5.0-alpha.ipa",
+      "size": 1926105
     }
   ],
   "news": []
