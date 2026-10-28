@@ -1,5 +1,7 @@
 # MeetingRec for iPhone — releases
 
+> **Alpha.** Every build here is an alpha (pre-release). There is no beta or official release yet; versions and behaviour can still change.
+
 Public distribution for **MeetingRec for iPhone** (the source code lives in a private repo).
 
 ## Install / update via AltStore
