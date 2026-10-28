@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "9",
+          "date": "2026-10-29",
+          "localizedDescription": "Model downloads go on after you leave or close MeetingRec, and pick up where they stopped; an interrupted download leaves no broken model.",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.7.0-alpha/MeetingRec-0.7.0-alpha.ipa",
+          "size": 1967190,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.6.1",
           "buildVersion": "8",
           "date": "2026-10-29",
@@ -69,11 +78,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.6.1",
+      "version": "0.7.0",
       "versionDate": "2026-10-29",
-      "versionDescription": "Settings shows only what works on iPhone, in the Mac app's sections and order.",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.6.1-alpha/MeetingRec-0.6.1-alpha.ipa",
-      "size": 1937869
+      "versionDescription": "Model downloads go on after you leave or close MeetingRec, and pick up where they stopped; an interrupted download leaves no broken model.",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.7.0-alpha/MeetingRec-0.7.0-alpha.ipa",
+      "size": 1967190
     }
   ],
   "news": []
