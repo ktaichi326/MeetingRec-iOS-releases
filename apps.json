@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.0",
+          "buildVersion": "5",
+          "date": "2026-10-29",
+          "localizedDescription": "Model download and transcription keep running after you leave MeetingRec (iOS 26+): iOS shows their progress and may stop them when the iPhone is busy.",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.4.0-alpha/MeetingRec-0.4.0-alpha.ipa",
+          "size": 1869830,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.3.1",
           "buildVersion": "4",
           "date": "2026-10-29",
@@ -33,11 +42,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.3.1",
+      "version": "0.4.0",
       "versionDate": "2026-10-29",
-      "versionDescription": "Speaker voiceprints from the Mac (.<name>.speakers.npz) now follow their recording on rename, delete and auto title.",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.3.1-alpha/MeetingRec-0.3.1-alpha.ipa",
-      "size": 1861158
+      "versionDescription": "Model download and transcription keep running after you leave MeetingRec (iOS 26+): iOS shows their progress and may stop them when the iPhone is busy.",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.4.0-alpha/MeetingRec-0.4.0-alpha.ipa",
+      "size": 1869830
     }
   ],
   "news": []
