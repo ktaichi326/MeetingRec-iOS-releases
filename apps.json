@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.9.0",
+          "buildVersion": "12",
+          "date": "2026-10-29",
+          "localizedDescription": "モデルのダウンロード中の進捗を、ロック画面とDynamic Islandのライブアクティビティに出すようにしました。",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.9.0-alpha/MeetingRec-0.9.0-alpha.ipa",
+          "size": 2626619,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.8.1",
           "buildVersion": "11",
           "date": "2026-10-29",
@@ -96,11 +105,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.8.1",
+      "version": "0.9.0",
       "versionDate": "2026-10-29",
-      "versionDescription": "モデルのダウンロードの経過を記録し、保存フォルダに隠しファイルとして書き出すようにしました（止まる原因の調査用）。iOSが裏で起こしたときに、完了したファイルを取りこぼす場合があったのを直しました。",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.8.1-alpha/MeetingRec-0.8.1-alpha.ipa",
-      "size": 2626142
+      "versionDescription": "モデルのダウンロード中の進捗を、ロック画面とDynamic Islandのライブアクティビティに出すようにしました。",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.9.0-alpha/MeetingRec-0.9.0-alpha.ipa",
+      "size": 2626619
     }
   ],
   "news": []
