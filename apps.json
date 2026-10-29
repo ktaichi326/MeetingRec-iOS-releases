@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.0",
+          "buildVersion": "10",
+          "date": "2026-10-29",
+          "localizedDescription": "iPad と大きい画面に対応：左にメニュー、録音一覧の横に文字起こしを表示（幅が足りないときは一覧のみ）。iPad は横向き・Split View・Stage Manager に対応。",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.8.0-alpha/MeetingRec-0.8.0-alpha.ipa",
+          "size": 2619133,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "9",
           "date": "2026-10-29",
@@ -78,11 +87,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.7.0",
+      "version": "0.8.0",
       "versionDate": "2026-10-29",
-      "versionDescription": "Model downloads go on after you leave or close MeetingRec, and pick up where they stopped; an interrupted download leaves no broken model.",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.7.0-alpha/MeetingRec-0.7.0-alpha.ipa",
-      "size": 1967190
+      "versionDescription": "iPad と大きい画面に対応：左にメニュー、録音一覧の横に文字起こしを表示（幅が足りないときは一覧のみ）。iPad は横向き・Split View・Stage Manager に対応。",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.8.0-alpha/MeetingRec-0.8.0-alpha.ipa",
+      "size": 2619133
     }
   ],
   "news": []
