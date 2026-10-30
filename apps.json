@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.9.1",
+          "buildVersion": "13",
+          "date": "2026-10-30",
+          "localizedDescription": "画面共有の録音でエラーになる原因を調べるため、エラー文と設定画面の一番下に、共有フォルダの状態を表示するようにしました。",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.9.1-alpha/MeetingRec-0.9.1-alpha.ipa",
+          "size": 2631218,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.9.0",
           "buildVersion": "12",
           "date": "2026-10-29",
@@ -105,11 +114,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.9.0",
-      "versionDate": "2026-10-29",
-      "versionDescription": "モデルのダウンロード中の進捗を、ロック画面とDynamic Islandのライブアクティビティに出すようにしました。",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.9.0-alpha/MeetingRec-0.9.0-alpha.ipa",
-      "size": 2626619
+      "version": "0.9.1",
+      "versionDate": "2026-10-30",
+      "versionDescription": "画面共有の録音でエラーになる原因を調べるため、エラー文と設定画面の一番下に、共有フォルダの状態を表示するようにしました。",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.9.1-alpha/MeetingRec-0.9.1-alpha.ipa",
+      "size": 2631218
     }
   ],
   "news": []
