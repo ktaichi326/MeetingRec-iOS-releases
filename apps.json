@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.10.0",
+          "buildVersion": "14",
+          "date": "2026-11-05",
+          "localizedDescription": "Fix: a recording sent to the MeetingRec folder could stay hidden in Files and Finder (iCloud keeps the hidden flag of the temporary .<name>.m4a after the rename); the flag is now cleared, and recordings already left hidden are repaired when the list loads. Recordings still being written on the Mac are listed as Recording.",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.0-alpha/MeetingRec-0.10.0-alpha.ipa",
+          "size": 2633547,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.9.1",
           "buildVersion": "13",
           "date": "2026-10-30",
@@ -114,11 +123,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.9.1",
-      "versionDate": "2026-10-30",
-      "versionDescription": "画面共有の録音でエラーになる原因を調べるため、エラー文と設定画面の一番下に、共有フォルダの状態を表示するようにしました。",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.9.1-alpha/MeetingRec-0.9.1-alpha.ipa",
-      "size": 2631218
+      "version": "0.10.0",
+      "versionDate": "2026-11-05",
+      "versionDescription": "Fix: a recording sent to the MeetingRec folder could stay hidden in Files and Finder (iCloud keeps the hidden flag of the temporary .<name>.m4a after the rename); the flag is now cleared, and recordings already left hidden are repaired when the list loads. Recordings still being written on the Mac are listed as Recording.",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.0-alpha/MeetingRec-0.10.0-alpha.ipa",
+      "size": 2633547
     }
   ],
   "news": []
