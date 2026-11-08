@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.10.2",
+          "buildVersion": "16",
+          "date": "2026-11-08",
+          "localizedDescription": "iOS 0.10.2-alpha",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.2-alpha/MeetingRec-0.10.2-alpha.ipa",
+          "size": 2639831,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.10.1",
           "buildVersion": "15",
           "date": "2026-11-08",
@@ -132,11 +141,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.10.1",
+      "version": "0.10.2",
       "versionDate": "2026-11-08",
-      "versionDescription": "Fix: delivering a recording to the MeetingRec folder could replace (and so delete) a recording the Mac was still writing under the same automatic name. The iPhone now picks a free name first (also counting recordings in progress elsewhere), copies under a temporary hidden name of its own, and removes it if delivery fails.",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.1-alpha/MeetingRec-0.10.1-alpha.ipa",
-      "size": 2633440
+      "versionDescription": "iOS 0.10.2-alpha",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.2-alpha/MeetingRec-0.10.2-alpha.ipa",
+      "size": 2639831
     }
   ],
   "news": []
