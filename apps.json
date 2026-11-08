@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.10.3",
+          "buildVersion": "17",
+          "date": "2026-11-09",
+          "localizedDescription": "iOS 0.10.3-alpha",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.3-alpha/MeetingRec-0.10.3-alpha.ipa",
+          "size": 2644350,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.10.2",
           "buildVersion": "16",
           "date": "2026-11-08",
@@ -141,11 +150,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.10.2",
-      "versionDate": "2026-11-08",
-      "versionDescription": "iOS 0.10.2-alpha",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.2-alpha/MeetingRec-0.10.2-alpha.ipa",
-      "size": 2639831
+      "version": "0.10.3",
+      "versionDate": "2026-11-09",
+      "versionDescription": "iOS 0.10.3-alpha",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.3-alpha/MeetingRec-0.10.3-alpha.ipa",
+      "size": 2644350
     }
   ],
   "news": []
