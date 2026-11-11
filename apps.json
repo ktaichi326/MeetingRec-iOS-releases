@@ -15,6 +15,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.10.4",
+          "buildVersion": "18",
+          "date": "2026-11-11",
+          "localizedDescription": "iOS 0.10.4-alpha (build 18): a recording cut off when the app closed is reported at the next launch and kept as <name>.m4a.unfinished (it is no longer hidden or recorded over); transcription waits while a recording is running and starts again afterwards.",
+          "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.4-alpha/MeetingRec-0.10.4-alpha.ipa",
+          "size": 2650876,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.10.3",
           "buildVersion": "17",
           "date": "2026-11-09",
@@ -150,11 +159,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.10.3",
-      "versionDate": "2026-11-09",
-      "versionDescription": "iOS 0.10.3-alpha",
-      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.3-alpha/MeetingRec-0.10.3-alpha.ipa",
-      "size": 2644350
+      "version": "0.10.4",
+      "versionDate": "2026-11-11",
+      "versionDescription": "iOS 0.10.4-alpha (build 18): a recording cut off when the app closed is reported at the next launch and kept as <name>.m4a.unfinished (it is no longer hidden or recorded over); transcription waits while a recording is running and starts again afterwards.",
+      "downloadURL": "https://github.com/ktaichi326/MeetingRec-iOS-releases/releases/download/ios-v0.10.4-alpha/MeetingRec-0.10.4-alpha.ipa",
+      "size": 2650876
     }
   ],
   "news": []
